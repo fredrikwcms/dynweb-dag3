@@ -1,0 +1,15 @@
+Skapa en databas som heter "animals"
+
+Skapa en tabell som heter "dogs" med följande "attribut":
+
+id | int | Auto Increment
+dog_name | varchar | 255 
+dog_age | int | 
+dog_breed | varchar | 255
+dog_color | varchar | 255
+
+---------------
+
+Skapa en index.html med ett formulär som kan ta emot data om hundar. 
+
+Skapa en form.php som skickar in data till våran databas vid POST av formuläret
